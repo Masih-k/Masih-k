@@ -11,7 +11,7 @@
          <li>🎓 I'm computer Engineering Student</li>
          <li>💻 Passionate about programming and learning new technologies</li>
          <li>🌱 Currently learning Python and Git</li>
-         <li>📫 How to reach me: <a href="mailto:masoumeh.konarang.004@gmail.com">masoumeh.konarang.004@gmail.com</a></li>
+         <li>📫 How to reach me: <a href="mailto:masoumeh.konarang.20@gmail.com">masoumeh.konarang.004@gmail.com</a></li>
     </ul>
 </body>
 </html>
